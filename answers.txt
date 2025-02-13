@@ -1,0 +1,5 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to sports. For example you could analyze
+previous cricket matches to create a machine learning model that can predict
+who will win the upcoming cricket match between India and England!
