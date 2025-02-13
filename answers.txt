@@ -8,3 +8,8 @@ Answer: Data science could be applied to sports. For example you could analyze
 previous cricket matches to create a machine learning model that can predict
 who will win the upcoming cricket match between India and England!
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging will join both branches together keeping their history
+while rebasing will move one branch into another destroying any previous history
